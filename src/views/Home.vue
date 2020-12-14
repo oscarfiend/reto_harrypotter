@@ -63,8 +63,7 @@ export default {
 .card:hover {
   transform: scale(1.05);
   cursor: pointer;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3), 0 8px 16px rgba(0, 0, 0, 0.3);
-}
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3), 0 8px 16px rgba(0, 0, 0, 0.3)}
 
 
 </style>
